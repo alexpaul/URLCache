@@ -27,7 +27,7 @@ class ViewController: UIViewController {
       }
       
       // automatically clear the cache
-      // this could be a UI element or similar
+      // this could be a UI element or expired date 
       
       // to test ONLY getting response from cache comment the code below
       self?.apiClient.clearCache()
